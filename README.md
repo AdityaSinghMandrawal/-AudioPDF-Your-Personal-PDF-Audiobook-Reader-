@@ -18,7 +18,7 @@ Audiobook Reader is a Python program that allows users to convert PDF documents 
 
 ## Installation and Usage
 1. **Code**
- https://github.com/AdityaSinghMandrawal/AudioPDF-Your-Personal-Audiobook-Reader.git
+ https://github.com/AdityaSinghMandrawal/-AudioPDF-Your-Personal-PDF-Audiobook-Reader-
 2. **Install Dependencies:**
  pip install PyPDF2 pyttsx3 pillow
 3. **Run the Program:**
